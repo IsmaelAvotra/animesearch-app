@@ -14,7 +14,7 @@ I did this project to practice,and i love manga/anime
 **Live version** : 
 <https://ornate-douhua-5a1772.netlify.app>
 
-**From the repo**
+**From the repo** : 
 - clone this project locally 
 - run *npm install* in your command line to install the dependencies
 - run *npm run dev* in your command line to start the server
