@@ -11,7 +11,7 @@ I did this project to practice,and i love manga/anime
 - We have a list of 25 tops animes.
 
 ## Running the project:
-**Live version**
+**Live version** : 
 <https://ornate-douhua-5a1772.netlify.app>
 
 **From the repo**
