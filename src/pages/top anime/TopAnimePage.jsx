@@ -62,7 +62,7 @@ const TopAnimePage = () => {
   return (
     <section className='top-animes-page'>
       <div className='title-top'>
-        <h2>Top animes from the moment</h2>
+        <h2>Top animes categories</h2>
       </div>
       <div className='content-animes'>
         {topAnimes.map((anime) => {

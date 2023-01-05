@@ -11,6 +11,7 @@ import Error from './pages/error/Error'
 // import components
 import Navbar from './components/navbar/Navbar'
 import TopAnimePage from './pages/top anime/TopAnimePage'
+import Footer from './components/footer/Footer'
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
           <Route path='/topanimes' element={<TopAnimePage />} />
           <Route path='/*' element={<Error />} />
         </Routes>
+        <Footer />
       </BrowserRouter>
     </div>
   )

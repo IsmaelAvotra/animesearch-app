@@ -101,6 +101,7 @@
 
   .navbar .menu {
     display: inline-block;
+    cursor: pointer;
   }
 
   .navbar .menu svg {
