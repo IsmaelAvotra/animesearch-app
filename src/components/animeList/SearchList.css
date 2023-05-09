@@ -29,13 +29,14 @@
 }
 
 .search-list .content .result:hover {
-  background-color: #000;
+  background-color: #010101;
 }
 
 .search-list .content .result img {
   width: 100%;
   height: 20rem;
   object-fit: cover;
+  border-radius: 0.25rem;
 }
 
 .content .result .bottom {

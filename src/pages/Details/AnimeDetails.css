@@ -69,6 +69,15 @@
   .anime-detail {
     flex-direction: column;
     gap: 2rem;
+    min-height: 90vh;
+  }
+
+  .anime-detail .left {
+    width: 40%;
+  }
+
+  .anime-detail .left img {
+    border-radius: 0.5rem;
   }
 
   .anime-detail .right {
@@ -77,6 +86,9 @@
 }
 
 @media screen and (max-width: 550px) {
+  .anime-detail .left {
+    width: 80%;
+  }
   .anime-detail .right p {
     font-size: 0.8rem;
   }

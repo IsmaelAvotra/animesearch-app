@@ -45,7 +45,7 @@
 }
 
 .navbar ul li::after {
-  content: '';
+  content: "";
   height: 2px;
   width: 0;
   background-color: #f47521;
@@ -54,7 +54,7 @@
 }
 
 .navbar ul li:hover::after {
-  content: '';
+  content: "";
   height: 2px;
   width: 100%;
   background-color: #f47521;
