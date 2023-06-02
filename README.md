@@ -12,7 +12,7 @@ I did this project to practice,and i love manga/anime
 
 ## Running the project:
 **Live version** : 
-<https://ornate-douhua-5a1772.netlify.app>
+<https://animesearch-app.vercel.app>
 
 **From the repo** : 
 - clone this project locally 
